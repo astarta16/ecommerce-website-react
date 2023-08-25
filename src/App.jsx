@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar"
 import Hero  from "./components/Hero"
 import HeadlineCards from "./components/HeadlineCards"
+import Food from "./components/Food"
 
  function App() {
   return (
@@ -8,6 +9,7 @@ import HeadlineCards from "./components/HeadlineCards"
     <Navbar />
     <Hero /> 
     <HeadlineCards />
+    <Food />
 
 
    </div>
